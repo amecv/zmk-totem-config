@@ -102,8 +102,8 @@
 
             bindings = <
          &kp NUMBER_1  &kp NUMBER_2      &kp NUMBER_3     &kp NUMBER_4          &kp NUMBER_5            &kp NUMBER_6     &kp N7       &kp N8        &kp N9         &kp NUMBER_0
-         &kp TAB       &kp LEFT_CONTROL  &kp LEFT_GUI     &kp LEFT_ALT          &kp C_VOLUME_DOWN       &kp C_VOLUME_UP  &kp LEFT     &kp UP_ARROW  &kp RIGHT      &kp EQUAL
-&kp ESC  &kp HOME      &kp END           &kp PRINTSCREEN  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC    &kp K_MUTE       &kp PAGE_UP  &kp DOWN      &kp PAGE_DOWN  &kp MINUS     &kp RSHIFT
+         &kp TAB       &kp LEFT_CONTROL  &kp LEFT_GUI     &kp LEFT_ALT          &kp C_VOLUME_DOWN       &kp C_VOLUME_UP  &kp LEFT     &kp UP_ARROW  &kp RIGHT      &kp BACKSPACE
+&kp ESC  &kp HOME      &kp END           &kp PRINTSCREEN  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC    &kp K_MUTE       &kp PAGE_UP  &kp DOWN      &kp PAGE_DOWN  &kp INS        &kp DEL
                                          &trans           &trans                &trans                  &mo ADJ          &trans       &trans
             >;
         };
