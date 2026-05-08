@@ -127,10 +127,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-           &kp EXCL  &kp AT            &kp HASH      &kp DLLR        &kp PRCNT           &kp CARET          &kp AMPS   &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-           &kp TAB   &kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT    &kp LEFT_BRACE      &kp RIGHT_BRACE    &kp MINUS  &kp EQUAL      &kp COLON             &kp DOUBLE_QUOTES
-&kp TILDE  &none     &none             &none         &none           &kp LEFT_BRACKET    &kp RIGHT_BRACKET  &none      &kp LESS_THAN  &kp GREATER_THAN      &kp QUESTION           &kp BACKSLASH
-                                       &trans        &kp LEFT_SHIFT  &mo ADJ             &trans             &trans     &trans
+           &kp EXCL  &kp AT            &kp HASH      &kp DLLR      &kp PRCNT           &kp CARET          &kp AMPS   &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+           &kp TAB   &kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT  &kp LEFT_BRACE      &kp RIGHT_BRACE    &kp MINUS  &kp EQUAL      &kp BACKSLASH         &kp COLON
+&kp TILDE  &none     &none             &none         &none         &kp LEFT_BRACKET    &kp RIGHT_BRACKET  &kp PIPE   &kp LESS_THAN  &kp GREATER_THAN      &kp QUESTION           &kp DOUBLE_QUOTES
+                                       &trans        &trans        &mo ADJ             &trans             &trans     &trans
             >;
         };
 
